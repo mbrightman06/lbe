@@ -1,5 +1,7 @@
 @import url("ElegantLux_Mager_2/stylesheet.css");
-/*!
+@import url("Anter/anter.css");
+
+/*!-
  * Sean Brightman :: Laura Burchfield Events
  * Code licensed under the Apache License v2.0.
  * For details, see http://www.apache.org/licenses/LICENSE-2.0.
@@ -24,6 +26,10 @@ h6 {
     font-family: "ElegantLux Mager 2";
     font-weight: 700;
 	color: #000000;
+}
+
+.anter {
+	font-family: "Anter";
 }
 
 .container{
@@ -505,4 +511,3 @@ display: inline;
 	background-color:rgba(255,255,255,1.00);
 	}
 }
-
