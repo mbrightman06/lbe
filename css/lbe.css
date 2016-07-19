@@ -416,17 +416,14 @@ p.copyright {
 /*Carousel CSS for LBE*/
 
 .carousel-control {
-    position: absolute;
     top: 0;
     bottom: 0;
     left: 0;
     width: 15%;
     font-size: 20px;
-    color: #adadad;
+    color: #000000;
     text-align: center;
     background-color: rgba(0, 0, 0, 0);
-    filter: alpha(opacity=50);
-    opacity: .5
 }
 
 .carousel-control.left {
